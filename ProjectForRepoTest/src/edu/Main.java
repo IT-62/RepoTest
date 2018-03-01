@@ -5,6 +5,6 @@ public class Main {
         System.out.println("Hello world");
         System.out.println("New branch");
         System.out.println("PushMaster");
-        System.out.println("Inc");
+        System.out.println("In2c");
     }
 }
