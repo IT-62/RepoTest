@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4cf9892-1243-4d7f-8422-f4e3169bfe5b" name="Default" comment="">
+    <list default="true" id="b4cf9892-1243-4d7f-8422-f4e3169bfe5b" name="Default" comment="add Main and &quot;New branch&quot;">
       <change beforePath="$PROJECT_DIR$/ProjectForRepoTest/.idea/workspace.xml" afterPath="$PROJECT_DIR$/ProjectForRepoTest/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/ProjectForRepoTest/src/edu/Main.java" afterPath="$PROJECT_DIR$/ProjectForRepoTest/src/edu/Main.java" />
     </list>
@@ -18,8 +18,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ProjectForRepoTest/src/edu/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="38" lean-forward="false" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+            <state relative-caret-position="119">
+              <caret line="7" column="31" lean-forward="false" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -107,7 +107,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
@@ -355,7 +355,21 @@
       <option name="project" value="LOCAL" />
       <updated>1519910025284</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add Main and &quot;New branch&quot;">
+      <created>1519910106324</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1519910106324</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add Main and &quot;New branch&quot;?">
+      <created>1519910233352</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1519910233352</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -397,7 +411,9 @@
     <MESSAGE value="Testing branching first commit" />
     <MESSAGE value="edi =&gt; edu" />
     <MESSAGE value="add Main" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Main" />
+    <MESSAGE value="add Main and &quot;New branch&quot;" />
+    <MESSAGE value="add Main and &quot;New branch&quot;?" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Main and &quot;New branch&quot;?" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -422,8 +438,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ProjectForRepoTest/src/edu/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="38" lean-forward="false" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+        <state relative-caret-position="119">
+          <caret line="7" column="31" lean-forward="false" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
           <folding />
         </state>
       </provider>
